@@ -1,13 +1,40 @@
-# Working with Markdown
+# BrightCove 
+The Brightcove Studio was home to the Brightcove Internet TV platform. Geared  toward professional video publishers, the studio was used to create, customize, distribute, and monetize video player widgets.
+## 1. UPLOAD
+Used to upload the videos in brightcove.(adding and processing can be done).
+![Hosted image](https://github.com/santhoshkumarbollena/GithubPagesRepo/blob/master/upload.png)
 
-> A short README.md that explains how to get started with Markdown, a super-simple markup language for web pages
+End user can upload the video in three ways:
+1. By drag on drop the video into brightcove webpage.
+2. By browsing the video from local fie system.
+3. By entering the url.
 
-## Links
+## 2. MEDIA
+Manages the video content i.e.,videos uploaded can be seen here.
+![Hosted image](https://github.com/santhoshkumarbollena/GithubPagesRepo/blob/master/SocialMedia.png)
 
-- [Webpage](https://profcase.github.io/working-with-markdown/ "Working With Markdown Webpage")
-- [Source](https://github.com/profcase/working-with-markdown "Working With Markdown Source")
+To publish a video through social platforms:
 
+1. Go to media module , select the checkbox of the corresponding video to be published.
+1. Click on publish button and select social networks.
+1. Select on which platform the video to be published by selecting the corresponding checkboxes.
+1. Fill the details below  and click “publish to destination”. 
+1. The video will be published in the respective platforms.
 
-![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
+## 3. PLAYERS
+Different types of players can be created and used and managed.
+## 4. ANALYTICS
+Used to measure the performance of videos based on different terms.
+![Hosted image](https://github.com/santhoshkumarbollena/GithubPagesRepo/blob/master/Analytics.png)
 
-![vscode image](https://github.com/profcase/working-with-markdown/raw/master/vscode.PNG "Example local image")
+Analytics obtained will be based on:
+- Video views
+- Video Impressions
+- Play Rate
+- Viewed minutes
+
+## References
+- [BrightCove](https://www.brightcove.com/en/)
+- [BrightCove Documentation](https://support.brightcove.com/)
+- [Brightcove Video](https://www.brightcove.com/en/online-video-platform)
+
